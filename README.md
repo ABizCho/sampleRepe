@@ -1,2 +1,2 @@
-# sampleRepe
+# sampleRepo
 Sample Repository
